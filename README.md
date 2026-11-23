@@ -34,7 +34,7 @@ Mantengo una identidad profesional coherente e interconectada en las plataformas
 
 - **Perfil Profesional en LinkedIn:** http://www.linkedin.com/in/herald-pimentel
 - **Curriculum Vitae Digital (PDF):** [Descargar CV Actualizado](https://www.linkedin.com/in/tu-usuario)
-- **Correo Institucional UTP:** herald.pimentel@gamil.com
+- **Correo Institucional UTP:** herald.pimentel@utp.ac.pa
 
 <p align="center">
   <i>"La seguridad en la red empieza con una identidad digital transparente, responsable y colaborativa."</i>
