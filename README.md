@@ -32,7 +32,7 @@ Como estudiante en etapa inicial, este portafolio evolutivo documenta mis avance
 
 Mantengo una identidad profesional coherente e interconectada en las plataformas digitales:
 
-- **Perfil Profesional en LinkedIn:** http://www.linkedin.com/in/herald-pimentel
+- **Perfil Profesional en LinkedIn:** www.linkedin.com/in/heraldo507
 - **Curriculum Vitae Digital (PDF):** [Curriculum Vitae Herald Pimentel.pdf](https://github.com/user-attachments/files/35263314/Curriculum.Vitae.Herald.Pimentel.pdf)
 - **Correo Institucional UTP:** herald.pimentel@utp.ac.pa
 
