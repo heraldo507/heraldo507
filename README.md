@@ -4,7 +4,7 @@
 
 ### 1. Importancia de la Marca Digital (Sobre mí)
 
-¡Hola! Soy **[Tu Nombre Completo]**, estudiante de 1.er año de la Licenciatura en Ciberseguridad en la **Universidad Tecnológica de Panamá (UTP)**.
+¡Hola! Soy Herald Pimentel, estudiante de 1.er año de la Licenciatura en Ciberseguridad en la **Universidad Tecnológica de Panamá (UTP)**.
 
 Entiendo la marca personal no como un currículum estático, sino como la demostración activa de mi aprendizaje continuo, la ética profesional en el manejo de la información y la colaboración en entornos digitales.
 
@@ -32,9 +32,9 @@ Como estudiante en etapa inicial, este portafolio evolutivo documenta mis avance
 
 Mantengo una identidad profesional coherente e interconectada en las plataformas digitales:
 
-- **Perfil Profesional en LinkedIn:** [Enlace a tu Perfil de LinkedIn](https://www.linkedin.com/in/tu-usuario)
+- **Perfil Profesional en LinkedIn:** http://www.linkedin.com/in/herald-pimentel
 - **Curriculum Vitae Digital (PDF):** [Descargar CV Actualizado](https://www.linkedin.com/in/tu-usuario)
-- **Correo Institucional UTP:** nombre.apellido@utp.ac.pa
+- **Correo Institucional UTP:** herald.pimentel@gamil.com
 
 <p align="center">
   <i>"La seguridad en la red empieza con una identidad digital transparente, responsable y colaborativa."</i>
